@@ -245,7 +245,7 @@ section {
 }
 
 section#home {
-  background-image: url("/images/autumn-mott-rodeheaver-SPd9CSoWCkY-unsplash.jpg");
+  background-image: url("images/autumn-image.jpg");
   background-size: cover;
   background-position: bottom center;
   background-repeat: no-repeat;
